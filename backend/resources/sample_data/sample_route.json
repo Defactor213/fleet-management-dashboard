@@ -1,0 +1,155 @@
+[
+	{
+		"bounds": {
+			"northeast": { "lat": 40.7879094, "lng": -73.94245409999999 },
+			"southwest": { "lat": 40.7011238, "lng": -74.0162028 }
+		},
+		"copyrights": "Map data \u00a92023 Google",
+		"legs": [
+			{
+				"distance": { "text": "9.4 mi", "value": 15082 },
+				"duration": { "text": "22 mins", "value": 1298 },
+				"end_address": "W 86 St/Transverse, New York, NY 10024, USA",
+				"end_location": {
+					"lat": 40.7836585,
+					"lng": -73.96480729999999
+				},
+				"start_address": "Battery Park Underpass, New York, NY 10004, USA",
+				"start_location": { "lat": 40.7027152, "lng": -74.0162028 },
+				"steps": [
+					{
+						"distance": { "text": "0.3 mi", "value": 450 },
+						"duration": { "text": "1 min", "value": 20 },
+						"end_location": {
+							"lat": 40.701441,
+							"lng": -74.0119532
+						},
+						"html_instructions": "Head <b>south</b> on <b>Battery Park Underpass</b>",
+						"polyline": {
+							"points": "_wlwFfhwbMh@Qh@S\\SJGNKPOFGXYNUPULUN_@N_@HYH[FWD[D]B]@c@A_@?MA_@AMAUEg@Go@Ko@E[WoB"
+						},
+						"start_location": {
+							"lat": 40.7027152,
+							"lng": -74.0162028
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "7.4 mi", "value": 11901 },
+						"duration": { "text": "11 mins", "value": 664 },
+						"end_location": {
+							"lat": 40.7811865,
+							"lng": -73.9440742
+						},
+						"html_instructions": "Continue onto <b>FDR Dr</b>",
+						"polyline": {
+							"points": "_olwFtmvbMu@iFKq@QoAMs@GSEOEQISCKi@iAwAmCm@mAGKEIIQUe@O[OWCCMYCAGOCCMWYk@AAKQAES]S]MUCEOYwAgCuAeCMUMUo@iAYi@KOIQGM]m@Yg@AAMYMSIQMWMWWi@IQKUKUOYgA_C[s@[s@IUg@oAAEM[AEACIUO]ACGMAAEKMUIQKSKQ?AGIEKGMCIc@cAM[K]CIEMCIIa@CKIc@ACCWIi@CQAUKkAG{@AWCOCi@Ek@KoAK}AAGKsAAUAOBMGu@IaBACASGaAMuAI_AEi@KoAKoAKqA?AEi@KeAAUMyAG}@Ce@ACWqEEm@Co@IqASmDG}@E}@Ek@QeDEi@Ci@MmEAe@Ag@AI?GA_@AGA]CmACs@Cm@A_@Aa@KmDIcA?AIu@Mq@Kg@CKGUCEK[IWGMM[OWAEIMIOCCYa@EEQSOOIKYU_@Yc@WSIeCeAwB}@qAg@gAc@e@SCAKEECi@SOGQIq@Y]Mi@U{@_@i@UA?g@SQGe@Ok@Qa@MYGUGA?y@QA?SEUEUCSEWCSCWCMACA{@E_AGYCk@EWA_@CeAGe@E[Am@Ek@ESEc@CE?g@EUAUCQCA?UCSEKC[GUGQGUIMGUKg@WAAaAi@KGe@WMGwAu@_@UWMSMSK[QEAi@[QI[QGEAAOGOKGCYMKGg@UA?_@OWMSGSGCAOEWGSEWEUEg@Ek@Eg@Ea@EUAm@GG?]C]Cm@AU@K?K@UBSBUDUDSHYHA@[NYR]TC@QPIHKJYZm@z@GFYZIJKNCDIJIHKLOLMJUPUNOHYNo@RQFA?C?_@HC@]FA?i@HYDMBI@QDA?MB_@FYDWD_ANA@c@FUDA?KBe@FQDK@SDQBWDUDSBUDQDSBYDSDYDQDI@K@QBM?G@U@U?YAUCUCSCUEUGUISIKEIEAAOIQMSMGCm@a@OMYQ]U_@UUQKGa@WAAUOQMSKSKGCIESIMGEAWI]Km@Mo@Qm@MYIe@KOCWEa@Go@GYEOAWEWCk@Ii@GKA_@G[CQEQCWESEUGQGUIKCGCUKSISKAAQKSKg@Yc@WUMUMQMQKm@]]SWQQKSOQMSOQOQOOMGGIGQOOOQQOQOOy@}@[]]a@OOSUa@_@A?g@a@YUKIKIi@a@_@Yg@a@QOSOq@i@q@k@UO]YWSy@o@y@o@c@]c@]aBoAi@c@k@e@gCwBcA_A[[YWk@i@[YSSw@q@KKSO]YYSOKGEWQi@a@KISOMMCAQOQOCCMKMMCASOOOIGSQQOIIEEOQKMAAIKIKMSGIkAgBW]MQSQQOSOQM_@U{@o@{@m@aBsAKGi@e@k@c@OMGCUSw@g@w@g@w@k@AAGEGCSMQKk@_@a@]AAOSOQOWMSOUg@{@Y_@Q[QU[i@o@{@KOAAY_@gCyCsA}AOOIKEEMMAAOQQOOMMKCCQOuAkAwBgBwBgBs@k@GG]Y?AKISQg@c@OOQOu@o@OMa@]a@]WUIGQMQKSMQKSMOMYWc@_@k@e@CAm@i@QQQMc@Ys@g@SMQMQMOOQOQO?AgB}AQQm@i@QSQQOOOOMQQOOOa@]AC_@[QOc@a@USAAQQOMIIMQQU[a@EE_@g@W]W]u@_AW[KOMQQSYY[WSQUU[YeA_Aq@m@eAaA_@[OMWQUQYSSMA?KIOIOGMEQISGQEUG_@G[G[CUAQ?WAS@W@SBQ@OBOBa@FUDMDWDYFw@PSDI@IBUFSFOFUH{@Zw@Xy@XoAd@KDIBQFKBIBQDUFQDQDmARsAP"
+						},
+						"start_location": {
+							"lat": 40.701441,
+							"lng": -74.0119532
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "0.1 mi", "value": 184 },
+						"duration": { "text": "1 min", "value": 42 },
+						"end_location": {
+							"lat": 40.7828155,
+							"lng": -73.9437799
+						},
+						"html_instructions": "Take exit <b>14</b> toward <b>E 96 St</b>",
+						"maneuver": "ramp-right",
+						"polyline": {
+							"points": "ma|wFleibMSKI@G?_@?Q?O?OAUCA?QCi@ICASCSEQCe@IEAG?G?"
+						},
+						"start_location": {
+							"lat": 40.7811865,
+							"lng": -73.9440742
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "0.7 mi", "value": 1170 },
+						"duration": { "text": "6 mins", "value": 356 },
+						"end_location": {
+							"lat": 40.7879094,
+							"lng": -73.95577639999999
+						},
+						"html_instructions": "Turn <b>left</b> onto <b>E 96th St</b>",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "sk|wFrcibMQIWz@IR_@hAADI^Ab@M^u@xBUv@Sj@y@fCWx@Uv@ELGNOd@?@k@hBs@xB?@Qh@M^EP[bAA@eAbDOh@Qf@EJK\\CFa@rAc@pAQh@Oh@Sj@a@rAWv@c@rAOf@Od@M`@CFq@vBc@rAGTM^IV"
+						},
+						"start_location": {
+							"lat": 40.7828155,
+							"lng": -73.9437799
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "0.6 mi", "value": 896 },
+						"duration": { "text": "3 mins", "value": 156 },
+						"end_location": {
+							"lat": 40.7808552,
+							"lng": -73.9609158
+						},
+						"html_instructions": "Turn <b>left</b> onto <b>5th Ave</b>/<wbr/><b>Museum Mile</b>",
+						"maneuver": "turn-left",
+						"polyline": {
+							"points": "mk}wFrnkbMbAn@`An@`CzArBtAHDpBrAFDFFt@d@|@l@~AdA`@XxBvA|BzA|BxAHDhBnARJtA~@FDf@^"
+						},
+						"start_location": {
+							"lat": 40.7879094,
+							"lng": -73.95577639999999
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "0.1 mi", "value": 168 },
+						"duration": { "text": "1 min", "value": 28 },
+						"end_location": {
+							"lat": 40.7815314,
+							"lng": -73.9626962
+						},
+						"html_instructions": "Turn <b>right</b> onto <b>E 85th St</b>",
+						"maneuver": "turn-right",
+						"polyline": {
+							"points": "k_|wFvnlbMw@xCMn@S~@K`@GLEJQ\\"
+						},
+						"start_location": {
+							"lat": 40.7808552,
+							"lng": -73.9609158
+						},
+						"travel_mode": "DRIVING"
+					},
+					{
+						"distance": { "text": "0.2 mi", "value": 313 },
+						"duration": { "text": "1 min", "value": 32 },
+						"end_location": {
+							"lat": 40.7836585,
+							"lng": -73.96480729999999
+						},
+						"html_instructions": "Continue onto <b>86th St Transverse</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+						"polyline": {
+							"points": "qc|wFzylbMQXQZGJGFGHGHA@IFIFKFIFOFABC@A@_@JI@KBG@MBM@M@IBWFQFEBGDSLIHCBEHGJEHEJEJGLIXM\\EJERCPEL?@"
+						},
+						"start_location": {
+							"lat": 40.7815314,
+							"lng": -73.9626962
+						},
+						"travel_mode": "DRIVING"
+					}
+				],
+				"traffic_speed_entry": [],
+				"via_waypoint": []
+			}
+		],
+		"overview_polyline": {
+			"points": "_wlwFfhwbMrAe@h@[`@[`@a@`@k@\\u@Xy@Ps@Jy@DaACmAQ{B_BeL]aCUgAYaAaCwEu@yAe@aAoA_CcB}CoHwMqBwDmDqHiBmESk@cA{Bq@uAaAgCWeAYiBYoDu@gKCe@BMUoDiAuNa@_Fe@yHmAkT_@aL_@eMIeAWgB[oAk@}Ae@{@u@_AY[y@o@w@a@}FcCcEaBwEmBoCiAeCw@kBa@aAOwAQmCQsHe@oE_@w@MyAa@mAm@aCqAcGcDyBiAuAm@cA_@sAYqCWmBO{@GcA?aAHk@Jm@R]Pw@h@k@h@mChDs@p@k@`@i@XgAZcAR}Cf@gJxA_Dh@s@Fk@@o@Ei@Gk@M_A_@wCmBkD}By@a@_A]iDy@gB_@aGs@yASsAW{@Y_Ac@aE_CuBoAkA}@wBqBcCmCgAeA}EyDwHcGsEoDsD}C_B{AuBoBuBgBiAw@wAiA_BqA_Ay@k@o@c@m@yBaDkA_A{AeA}CaCqB_BmCgBiAw@e@YmA}@q@_A_BeCoBwCoDkEsB_Cq@q@mLuJ}BsByBkBuAiAkAs@yBkBuAkA}B}AmFyEcAeAqAoAqCgC{C}DgB}Bk@m@o@i@iD}CeB}Ag@_@eAs@y@a@mA_@{@Oq@Ei@Ak@BeALmEz@cAZcExAwBv@}@TeEp@SKQ@qAAsAQ}@Ok@KO?QIWz@i@|AKd@Ab@M^kApDmArD{@nCoBjGe@|AwCdJmJfZWv@dC~ApJjG|NtJdGzD|AdAf@^w@xCa@nBSn@{@~A_@f@a@X_@Tw@Rq@Ha@JWJi@`@Yj@e@pAU~@?@"
+		},
+		"summary": "FDR Dr",
+		"warnings": [],
+		"waypoint_order": []
+	}
+]
